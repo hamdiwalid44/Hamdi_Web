@@ -1,2 +1,2 @@
 # Hamdi_Web
-It's a web applicaion that allow me to add my works
+It's a web application that allow me to add my works
